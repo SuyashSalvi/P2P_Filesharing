@@ -6,7 +6,7 @@ A decentralized peer-to-peer (P2P) file-sharing system that allows multiple peer
 
 ## 🔗 Demo Video
 
-Check out the demo video of the project on YouTube: [P2P File Sharing Demo](https://youtu.be/<your-video-id>)
+Check out the demo video of the project on YouTube: [P2P File Sharing Demo](https://www.youtube.com/watch?v=kVdlwpGYqok)
 
 ---
 
