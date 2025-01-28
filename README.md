@@ -59,7 +59,7 @@ sudo apt-get install libboost-all-dev
 #### Build and Run
 1.	Clone the Repository:
 ```
-git clone https://github.com/your-username/P2P_FileSharing.git
+git clone https://github.com/SuyashSalvi/P2P_FileSharing.git
 cd P2P_FileSharing
 ```
 
