@@ -88,12 +88,12 @@ g++ -std=c++17 -o P2P src/main.cpp src/peer.cpp -Iinclude -pthread -lboost_syste
 	•	Periodically checks peer health and reassigns chunks if a peer fails.
 
 ### 💡 Future Enhancements
-•	Peer Discovery: Implement a more robust discovery mechanism.
-•	Encryption: Add encryption for secure file transfers.
-•	Web Interface: Develop a web-based UI for managing peers and file sharing.
-•	Cloud Integration: Use AWS S3 for backup storage of file chunks.
+1. Peer Discovery: Implement a more robust discovery mechanism.
+2. Encryption: Add encryption for secure file transfers.
+3. Web Interface: Develop a web-based UI for managing peers and file sharing.
+4. Cloud Integration: Use AWS S3 for backup storage of file chunks.
 
 ### 🛠️ Technologies Used
-•	C++17: Core programming language.
-•	Boost.Asio: Networking library for peer communication.
-•	Multithreading: Ensures efficient and non-blocking operations.
+1. C++17: Core programming language.
+2. Boost.Asio: Networking library for peer communication.
+3. Multithreading: Ensures efficient and non-blocking operations.
