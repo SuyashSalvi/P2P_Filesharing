@@ -46,12 +46,12 @@ Check out the demo video of the project on YouTube: [P2P File Sharing Demo](http
 
 #### Install Boost
 
-# On macOS
+##### On macOS
 ```
 brew install boost
 ```
 
-# On Ubuntu/Debian
+##### On Ubuntu/Debian
 ```
 sudo apt-get install libboost-all-dev
 ```
@@ -87,13 +87,13 @@ g++ -std=c++17 -o P2P src/main.cpp src/peer.cpp -Iinclude -pthread -lboost_syste
 5. Stabilization
 	•	Periodically checks peer health and reassigns chunks if a peer fails.
 
-#### 💡 Future Enhancements
+### 💡 Future Enhancements
 •	Peer Discovery: Implement a more robust discovery mechanism.
 •	Encryption: Add encryption for secure file transfers.
 •	Web Interface: Develop a web-based UI for managing peers and file sharing.
 •	Cloud Integration: Use AWS S3 for backup storage of file chunks.
 
-#### 🛠️ Technologies Used
+### 🛠️ Technologies Used
 •	C++17: Core programming language.
 •	Boost.Asio: Networking library for peer communication.
 •	Multithreading: Ensures efficient and non-blocking operations.
